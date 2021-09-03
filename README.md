@@ -252,3 +252,7 @@ For API calls associated with the buttons, see [Calling the LIFF API](https://de
 [heroku-cli]: https://devcenter.heroku.com/articles/heroku-cli
 [liff-api-ref]: https://developers.line.biz/en/reference/liff/
 [calling-liff-api]: https://developers.line.biz/en/docs/liff/developing-liff-apps#calling-liff-api
+
+## LIFF_ID
+- Go to https://developers.line.biz
+- Pramoch Provider > Rainbow Login > LIFF > LIFF ID > 16..WE
